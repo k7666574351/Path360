@@ -1,3 +1,19 @@
+// import { Features, Footer, SuccessStories } from "@/components/landing";
+// import { Hero } from "@/components/landing";
+
+
+
+// export default function Home() {
+//   return (
+//     <>
+//       <Hero />
+//       <Features />
+//       <SuccessStories />
+//       <Footer />
+//     </>
+//   );
+// }
+
 "use client"
 import Image from "next/image";
 
